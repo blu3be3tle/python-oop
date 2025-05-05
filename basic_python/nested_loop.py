@@ -9,4 +9,4 @@ for salah in salahs:
         print(salah, rakah)
         prayer_comb.append([salah, rakah])
     
-    print(prayer_comb)
+    
