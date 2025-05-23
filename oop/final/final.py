@@ -1,7 +1,5 @@
 from abc import ABC
 
-# users
-
 
 class User(ABC):
     def __init__(self, name, phone, email, address):
